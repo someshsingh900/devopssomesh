@@ -16,8 +16,8 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 💻 I’m a DevOps noida
-- 💟 Kubernetes, Docker, Python, CICD Pipelines, Clouds, IaaC and yes Open Sources
+- 💻 I’m a DevOps Engineer, noida
+- 💟 Kubernetes, Docker, Azure, CICD Pipelines, Clouds, IaaC and yes Open Sources
 - ✋ Ask me about anything, I'm happy to help!
 - 📥 How to reach me: someshsinghaz104@outlook.com.com
 
