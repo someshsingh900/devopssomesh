@@ -1,0 +1,4 @@
+variable "nsg" {
+    type = map()
+  
+}

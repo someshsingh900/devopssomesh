@@ -20,7 +20,6 @@ Azure DevOps Engineer
 📱: +91 9264991083
 📧 Id: someshsingh2009@gmail.com
 
-
 PROFILE
 Overall 10 year of Experiences, including 5 years in Azure Devops, Terraform and Azure Administrator Associate –AZ-104 certified having experience working on cloud ,system engineering and deployments, leveraging configuration management ,CI/CD ,Terraform ,Docker, kubernetes, Azure CLI,ARM Template,  git hub and power shell
 
