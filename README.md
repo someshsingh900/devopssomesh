@@ -14,11 +14,12 @@
 <h2> About Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-Somesh Singh  
+😊:Somesh Singh  
 Azure DevOps Engineer
-Greater Noida, India 
-Phone No: +91 9264991083
- Email Id: someshsingh2009@gmail.com
+🗺️:Greater Noida, India 
+📱: +91 9264991083
+📧 Id: someshsingh2009@gmail.com
+
 
 PROFILE
 Overall 10 year of Experiences, including 5 years in Azure Devops, Terraform and Azure Administrator Associate –AZ-104 certified having experience working on cloud ,system engineering and deployments, leveraging configuration management ,CI/CD ,Terraform ,Docker, kubernetes, Azure CLI,ARM Template,  git hub and power shell
